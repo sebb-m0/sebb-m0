@@ -1,6 +1,6 @@
 ## Redefining the future of money
 
-Working in Germany as an **Senior QA Engineer** to "*revolutionise the idea of money forever*" with [M^0]([https://github.com/MZero-Labs](https://github.com/m0-foundation))
+Working in Germany as an **Senior QA Engineer** to "*revolutionise the idea of money forever*" with [M^0](https://github.com/m0-foundation)
 
 Doing things with:
 - Vue3, Typescript and Cypress
